@@ -1,0 +1,26 @@
+{
+  "Unknown Test Framework": {
+    "coverage": {
+    },
+    "timestamp": 1429630804
+  },
+  "Unit Tests": {
+    "coverage": {
+      "/Users/crb002/github/TeachRubyToProgramItself/fizzbuzz.rb": [
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        5,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1429659797
+  }
+}
